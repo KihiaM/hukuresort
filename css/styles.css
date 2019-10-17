@@ -1,0 +1,22 @@
+.navbar{
+  background-color: chocolate;
+  padding: 20px;
+}
+.navbar>a{
+  text-decoration: none;
+  padding: 10px;
+  text-transform: uppercase;
+  color: black;
+}
+h1{
+  text-align: center;
+  font-size: 60px;
+}
+h2{
+  text-align: center;
+  font-size: 40px;
+}
+h3{
+  text-align: center;
+  font-size: 30px;
+}
