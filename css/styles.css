@@ -20,3 +20,12 @@ h3{
   text-align: center;
   font-size: 30px;
 }
+.cottages {
+  max-width: 100%;
+}
+.rooms {
+  height: 500px;width: 700px;
+}
+.resort {
+  height: 500px; width: 900px;
+}
