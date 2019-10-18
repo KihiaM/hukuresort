@@ -1,6 +1,6 @@
 .navbar{
   background-color: chocolate;
-  padding: 20px;
+  padding: 10px;
 }
 .navbar>a{
   text-decoration: none;
@@ -27,5 +27,5 @@ h3{
   height: 500px;width: 700px;
 }
 .resort {
-  height: 500px; width: 900px;
+  height: 720px;width: 1080px;
 }
