@@ -22,10 +22,13 @@ h3{
 }
 .cottages {
   max-width: 100%;
+  height: auto;
 }
 .rooms {
-  height: 500px;width: 700px;
+  max-width: 100%;
+  height: auto;
 }
 .resort {
-  height: 720px;width: 100%;
+  max-width: 100%;
+  height: auto;
 }
